@@ -1,0 +1,18 @@
+{
+  "name": "cncserver",
+  "version": "0.7.0",
+  "description": "A web based a web based CNC Server/Controller to drive @makersylvia's WaterColorBot and beyond",
+  "main": "hpglserver.js",
+  "author": "techninja",
+  "license": "MIT",
+  "dependencies" : {
+    "express": "~3.0.0",
+    "serialport" : "1.4.5",
+    "nconf": "0.6.9",
+    "ini": "1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/techninja/cncserver.git"
+  }
+}

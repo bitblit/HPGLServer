@@ -5,7 +5,9 @@ print f
 
 hp = f.read();
 
+print 'Before'
 print hp
+print 'After'
 
 ser = serial.Serial('/dev/ttyUSB0', 19200, timeout=1)
 x = ser.read()          # read one byte

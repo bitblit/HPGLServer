@@ -9,7 +9,7 @@ print hp
 print 'After'
 
 #ser = serial.Serial('/dev/ttyUSB0', 9600, timeout=1)
-ser = serial.Serial('/dev/ttyUSB0', baudrate=9600, bytesize=serial.EIGHTBITS, parity=serial.PARITY_NONE, stopbits=serial.STOPBITS_ONE, timeout=1, xonxoff=True, rtscts=False, writeTimeout=2, dsrdtr=False, interCharTimeout=2)
+ser = serial.Serial('/dev/ttyUSB0', baudrate=9600, bytesize=serial.EIGHTBITS, parity=serial.PARITY_NONE, stopbits=serial.STOPBITS_ONE, timeout=1, xonxoff=False, rtscts=True, writeTimeout=2, dsrdtr=True, interCharTimeout=2)
 #ser = serial.Serial(ort=None, baudrate=9600, bytesize=EIGHTBITS, parity=PARITY_NONE, stopbits=STOPBITS_ONE, timeout=None, xonxoff=False, rtscts=False, writeTimeout=None, dsrdtr=False, interCharTimeout=None)
 #ser = serial.Serial(0)  # open first serial port
 print ser.name          # check which port was really used

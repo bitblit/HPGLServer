@@ -51,8 +51,8 @@
       <file leaf-file-name="hpglServe.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hpglServe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.360262" vertical-offset="0" max-vertical-offset="458">
-              <caret line="11" column="199" selection-start-line="11" selection-start-column="199" selection-end-line="11" selection-end-column="199" />
+            <state vertical-scroll-proportion="0.32751092" vertical-offset="0" max-vertical-offset="458">
+              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -603,12 +603,12 @@
       <workItem from="1410670408630" duration="43000" />
       <workItem from="1410670485926" duration="1143000" />
       <workItem from="1410734018513" duration="3589000" />
-      <workItem from="1410835821324" duration="1577000" />
+      <workItem from="1410835821324" duration="1750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6352000" />
+    <option name="totallyTimeSpent" value="6525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="790" extended-state="6" />
@@ -810,8 +810,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hpglServe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.360262" vertical-offset="0" max-vertical-offset="458">
-          <caret line="11" column="199" selection-start-line="11" selection-start-column="199" selection-end-line="11" selection-end-column="199" />
+        <state vertical-scroll-proportion="0.32751092" vertical-offset="0" max-vertical-offset="458">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
           <folding />
         </state>
       </provider>

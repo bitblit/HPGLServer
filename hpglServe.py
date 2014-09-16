@@ -1,6 +1,6 @@
 import serial
 
-f = open('knownGood.hpgl', 'w')
+f = open('knownGood.hpgl', 'r')
 print f
 
 hp = f.read();

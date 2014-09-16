@@ -1,9 +1,6 @@
 import serial
 
-f = open('knownGood.hpgl', 'r')
-print f
-
-with open('workfile', 'r') as f:
+with open('knownGood.hpgl', 'r') as f:
      hp = f.read()
 f.closed
 

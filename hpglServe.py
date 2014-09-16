@@ -1,6 +1,7 @@
 import serial
 
 with open('/home/pi/workspace/HPGLServer/knownGood.hpgl', 'r') as f:
+    print f.name();
      hp = f.read()
 f.closed
 

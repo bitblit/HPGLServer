@@ -3,7 +3,9 @@ import serial
 f = open('knownGood.hpgl', 'r')
 print f
 
-hp = f.read();
+with open('workfile', 'r') as f:
+     hp = f.read()
+f.closed
 
 print 'Before'
 print hp

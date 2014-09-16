@@ -1,6 +1,6 @@
 import serial
 
-with open('knownGood.hpgl', 'r') as f:
+with open('/home/pi/workspace/HPGLServer/knownGood.hpgl', 'r') as f:
      hp = f.read()
 f.closed
 

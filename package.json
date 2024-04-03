@@ -1,12 +1,12 @@
 {
-  "name": "hpglserver",
-  "version": "0.7.0",
-  "description": "A web based a web based HPGL Server/Controller to drive serial-based HPGL plotters",
+  "name": "@bitblit/hpgl-server",
+  "version": "0.0.0",
+  "description": "A web based HPGL Server/Controller to drive serial-based HPGL plotters",
   "main": "hpglserver.js",
   "author": "bitblit",
   "license": "MIT",
   "dependencies" : {
-    "express": "4.18.1",
+    "express": "4.19.2",
     "serialport" : "10.4.0",
     "nconf": "0.12.0",
     "ini": "3.0.0"

@@ -5,11 +5,11 @@
   "main": "hpglserver.js",
   "author": "bitblit",
   "license": "MIT",
-  "dependencies" : {
-    "express": "4.19.2",
-    "serialport" : "10.4.0",
-    "nconf": "0.12.0",
-    "ini": "3.0.0"
+  "dependencies": {
+    "express": "4.21.0",
+    "ini": "5.0.0",
+    "nconf": "0.12.1",
+    "serialport": "12.0.0"
   },
   "repository": {
     "type": "git",

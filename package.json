@@ -5,6 +5,9 @@
   "main": "hpglserver.js",
   "author": "bitblit",
   "license": "MIT",
+  "resolutions": {
+    "cookie": "^0.7.0"
+  },
   "dependencies": {
     "express": "4.21.0",
     "ini": "5.0.0",

@@ -6,8 +6,8 @@
   "author": "bitblit",
   "license": "MIT",
   "resolutions": {
-    "cookie": "^0.7.0",
-    "path-to-regexp": "0.1.12"
+    "cookie": "^1.1.1",
+    "qs": "^6.14.2"
   },
   "dependencies": {
     "express": "5.2.1",

@@ -8,7 +8,7 @@
   "resolutions": {
     "path-to-regexp": "^8.4.0",
     "cookie": "^1.1.1",
-    "qs": "^6.14.2"
+    "qs": "^6.15.2"
   },
   "dependencies": {
     "express": "5.2.1",
@@ -20,5 +20,5 @@
     "type": "git",
     "url": "https://github.com/bitblit/hpglserver.git"
   },
-  "packageManager": "pnpm@10.33.0"
+  "packageManager": "pnpm@11.4.0"
 }

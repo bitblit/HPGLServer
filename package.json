@@ -5,14 +5,9 @@
   "main": "hpglserver.js",
   "author": "bitblit",
   "license": "MIT",
-  "resolutions": {
-    "path-to-regexp": "^8.4.0",
-    "cookie": "^1.1.1",
-    "qs": "^6.15.2"
-  },
   "dependencies": {
     "express": "5.2.1",
-    "ini": "6.0.0",
+    "ini": "7.0.0",
     "nconf": "0.13.0",
     "serialport": "13.0.0"
   },

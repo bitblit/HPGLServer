@@ -1,2 +1,8 @@
 allowBuilds:
-  '@serialport/bindings-cpp': set this to true or false
+  '@serialport/bindings-cpp': true
+
+overrides:
+  "body-parser": "^2.3.0"
+  "path-to-regexp": "^8.4.0"
+  "cookie": "^1.1.1"
+  "qs": "^6.15.2"
